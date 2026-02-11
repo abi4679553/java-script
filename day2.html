@@ -16,20 +16,17 @@
 
 </script>
 
-<!-- Step 2: p tag -->
-<p id="msg">Hello JavaScript</p>
 
-<!-- Button to change text -->
-<button onclick="changeText()">Click Me</button>
 
+
+
+
+<p id="abi">hello !!</p>
+<button onclick="changeText('welcome back')">click me</button>
 <script>
-  // Step 3: Change text using JavaScript
-  function changeText() {
-    document.getElementById("msg").innerHTML = "Welcome to JavaScript";
-
-    // Step 4: Print message in console
-    console.log("Text changed successfully");
-  }
+    function changeText(text){
+        document.getElementById("abi").innerHTML = text;
+    }
 </script>
 
 
