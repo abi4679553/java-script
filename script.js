@@ -39,3 +39,11 @@ b = abi;
 console.log("a",a)
 console.log("b",b)
 
+let P = 1000;   // Principal
+let R = 5;      // Rate
+let T = 2;      // Time
+
+let SI = (P * R * T) / 100;
+
+console.log("Simple Interest:", SI);
+
