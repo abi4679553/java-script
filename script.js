@@ -39,11 +39,20 @@ b = abi;
 console.log("a",a)
 console.log("b",b)
 
-let P = 1000;   // Principal
-let R = 5;      // Rate
-let T = 2;      // Time
+let P = 1000;   
+let R = 5;     
+let T = 2;      
 
 let SI = (P * R * T) / 100;
 
 console.log("Simple Interest:", SI);
 
+
+x = 9
+if(x%2==0)
+{
+    console.log("even")
+}
+else{
+    console.log("not even")
+}
