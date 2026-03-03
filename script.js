@@ -1,58 +1,73 @@
 
-// console.log("hejkwn")
+// // console.log("hejkwn")
 
-// var a = "saravanan"
-// console.log(a)
+// // var a = "saravanan"
+// // console.log(a)
 
-// var b = "abi"
-// var c = "saro"
-// d = b*c ;
-// console.log(d)
+// // var b = "abi"
+// // var c = "saro"
+// // d = b*c ;
+// // console.log(d)
 
-// let f = "kavin"
-// f = "priya"
-// console.log(f)
+// // let f = "kavin"
+// // f = "priya"
+// // console.log(f)
 
-// const g = 20;
+// // const g = 20;
 
-// console.log(g)
+// // console.log(g)
 
-// var a = 10;
-// var b = 30;
-// c = a+b;
-// console.log(c)
+// // var a = 10;
+// // var b = 30;
+// // c = a+b;
+// // console.log(c)
 
-// var g = 12;
-// if (g>=18)
+// // var g = 12;
+// // if (g>=18)
+// // {
+// //     console.log("voted")
+// // }
+// // else{
+// //     console.log("not voted")
+// // }
+
+// let a = 10;
+// let b = 20;
+// let abi = a;
+// a = b;
+// b = abi;
+// console.log("a",a)
+// console.log("b",b)
+
+// let P = 1000;   
+// let R = 5;     
+// let T = 2;      
+
+// let SI = (P * R * T) / 100;
+
+// console.log("Simple Interest:", SI);
+
+
+// x = 10
+// if(x % 2 ==0)
 // {
-//     console.log("voted")
+//     console.log("even")
 // }
 // else{
-//     console.log("not voted")
+//     console.log("odd ")
 // }
 
-let a = 10;
-let b = 20;
-let abi = a;
-a = b;
-b = abi;
-console.log("a",a)
-console.log("b",b)
+a = 10
+b = 20
+c = 30
 
-let P = 1000;   
-let R = 5;     
-let T = 2;      
-
-let SI = (P * R * T) / 100;
-
-console.log("Simple Interest:", SI);
-
-
-x = 9
-if(x%2==0)
+if(a>b>c)
 {
-    console.log("even")
+    console.log("a is greater")
 }
-else{
-    console.log("not even")
+else {
+    console.log("b is greater")
 }
+
+
+
