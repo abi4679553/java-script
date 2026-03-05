@@ -57,17 +57,15 @@
 //     console.log("odd ")
 // }
 
-a = 10
-b = 20
-c = 30
+var num = 10
+if(num < 0){
+    console.log("negative")
 
-if(a>b>c)
-{
-    console.log("a is greater")
 }
-else {
-    console.log("b is greater")
+else{
+    console.log("positive")
 }
+
 
 
 
