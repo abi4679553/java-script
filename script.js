@@ -57,20 +57,36 @@
 //     console.log("odd ")
 // }
 
-var num = 10
-if (num < 0) {
-    console.log("negative")
-}
-else {
-    console.log("positive")
-}
+// var num = 10
+// if (num < 0) {
+//     console.log("negative")
+// }
+// else {
+//     console.log("positive")
+// }
 
-let result = "";
+// let result = "";
+// for (let i = 1; i <= 5; i++) {
+//     result = result + "*"
+//     console.log(result)
+// }
+
+
+// for (let i = 1; i <= 5; i++) {
+
+//     let result = "";
+
+//     for (let j = 5; j >= i; j--) {
+//         result = result + "*";
+//     }
+
+//     console.log(result);
+// }
+
 for (let i = 1; i <= 5; i++) {
-    result = result + "*"
+    let result = "";
+    for (let j = 1; j <= 5; j++) {
+       result = result + "*"
+    }
     console.log(result)
-
 }
-
-
-
