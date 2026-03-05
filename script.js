@@ -58,14 +58,19 @@
 // }
 
 var num = 10
-if(num < 0){
+if (num < 0) {
     console.log("negative")
-
 }
-else{
+else {
     console.log("positive")
 }
 
+let result = "";
+for (let i = 1; i <= 5; i++) {
+    result = result + "*"
+    console.log(result)
+
+}
 
 
 
