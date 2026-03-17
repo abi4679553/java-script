@@ -83,10 +83,27 @@
 //     console.log(result);
 // }
 
-for (let i = 1; i <= 5; i++) {
-    let result = "";
-    for (let j = 1; j <= 5; j++) {
-       result = result + "*"
-    }
-    console.log(result)
+// for (let i = 1; i <= 5; i++) {
+//     let result = "";
+//     for (let j = 1; j <= 5; j++) {
+//        result = result + "*"
+//     }
+//     console.log(result)
+// }
+
+// console.log("*")
+
+
+// for (let i = 0;1 <= 10;i++)
+// {
+//     console.log("*")
+// }
+
+var result = ""
+for(var i = 1;i <= 5;i++)
+{
+  result = result + "*"
+  console.log(result)
 }
+
+console.log("*")
