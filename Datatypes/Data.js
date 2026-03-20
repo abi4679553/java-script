@@ -53,9 +53,10 @@
 // console.log((Class.mark + Class.mark2) /2)
 
 //Null 
-var add = null;
-add = 90;
-console.log(add)
+
+// var add = null;
+// add = 90;
+// console.log(add)
 
 
 
