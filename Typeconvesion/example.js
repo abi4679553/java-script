@@ -19,9 +19,9 @@
 // console.log(typeof  a)
 // console.log( typeof b)
 
-var x = "99"
-var y = Number(x);
-console.log(x)
-console.log(y)
-console.log(typeof  x)
-console.log( typeof y)
+// var x = "99"
+// var y = Number(x);
+// console.log(x)
+// console.log(y)
+// console.log(typeof  x)
+// console.log( typeof y)
