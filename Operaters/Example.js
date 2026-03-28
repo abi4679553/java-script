@@ -16,12 +16,22 @@ b = 20;
 
 //Comparision Operaters
 
-console.log(a>b)
-console.log(a<b)
-console.log(a<=b)
-console.log(a>=b)
-console.log(a==b)
-console.log(a===b)
+// console.log(a>b)
+// console.log(a<b)
+// console.log(a<=b)
+// console.log(a>=b)
+// console.log(a==b)
+// console.log(a===b)
 
+//Logical Operaters
 
+// console.log(a||b)
+// console.log(a&&b)
+// console.log(!a)
+
+//Assignment Operaters
+
+c = 30;
+c += 3
+console.log(c)
 
