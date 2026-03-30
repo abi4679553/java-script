@@ -1,7 +1,7 @@
-a = 10;
-b = 20;
+a = 15;
+b = 12;
 
-//Arthmetic Operaters
+// Arthmetic Operaters
 
 // console.log(a+b)
 
@@ -31,7 +31,11 @@ b = 20;
 
 //Assignment Operaters
 
-c = 30;
-c += 3
-console.log(c)
+// c = 30;
+// c -= 3
+// console.log(c)
+
+//Boolean Operaters
+
+
 
