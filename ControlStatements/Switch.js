@@ -1,6 +1,6 @@
-let day = 1;
+let day = "tuesday";
 switch(day){
-    case 1 :
+    case "tuesday" :
         console.log("tuesday")
         break;
     case 2 :
