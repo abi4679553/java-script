@@ -47,8 +47,17 @@
 //     }
 // }
 
-let sum = 0;
-for(i = 0;i<=5;i++){
-    sum = sum + i;
-    console.log(sum)
+// let sum = 0;
+// for(i = 0;i<=5;i++){
+//     sum = sum + i;
+//     console.log(sum)
+// }
+
+for(i=1;i<=4;i++){
+    let resut = ""
+    for(j=1;j<=4;j++){
+        resut = resut + "*"
+        
+    }
+    console.log(resut)
 }
